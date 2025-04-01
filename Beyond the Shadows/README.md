@@ -53,7 +53,7 @@ beyond_the_shadows/
 
 Découvrez la présentation du projet en vidéo sur YouTube :  
 
-[🎬 Voir la vidéo sur YouTube](https://www.youtube.com/lien-de-la-video)  
+[🎬 Voir la vidéo sur YouTube]([https://www.youtube.com/lien-de-la-video](https://youtu.be/4eLbBvUp9YQ?si=MA9R4iSHbG3ikiT-))  
 
 ## Comment jouer ?
 
