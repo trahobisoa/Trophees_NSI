@@ -35,6 +35,11 @@ pip install -r requirements.txt
 ```bash
 python X-quisse/main.py
 ```
+## Présentation en vidéo 🎥  
+
+Découvrez la présentation du projet en vidéo :  
+
+[[🎬 Voir la vidéo sur YouTube](https://youtu.be/4eLbBvUp9YQ?si=TDd4xjDCo7xBZW1X)]
 
 ## Comment jouer ? :video_game: 
 
