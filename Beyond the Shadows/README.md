@@ -49,6 +49,11 @@ beyond_the_shadows/
 
 ```
 
+## Présentation en vidéo 🎥  
+
+Découvrez la présentation du projet en vidéo sur YouTube :  
+
+[🎬 Voir la vidéo sur YouTube](https://www.youtube.com/lien-de-la-video)  
 
 ## Comment jouer ?
 
