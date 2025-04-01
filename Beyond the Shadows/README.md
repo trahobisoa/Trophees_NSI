@@ -1,4 +1,4 @@
-## :ghost: Beyond The Shadows 
+# :ghost: Beyond The Shadows 
 
 *Beyond the Shadows* est un jeu de plateau dans lequel le joueur incarne le fantôme d'un héros légendaire cherchant à retrouver son corps. Pour y parvenir, il doit affronter et vaincre des monstres qui menacent de le faire disparaitre à tout jamais. Développé en Python à l'aide du module *Pygame*, le jeu mêle exploration combats et quêtes, offrant ainsi une expérience immersive où le joueur devra naviguer à travers le monde et surmonter divers obstacles avec l'aide de différents personnages pour accomplir son objectif.
 
@@ -28,7 +28,7 @@ python Beyond_the_Shadows/code/main.py
 
 
 
-:books: ## Structure du projet
+## :books: Structure du projet
 ```bash
 beyond_the_shadows/
 ├── code/               #Dossier qui contient tout les codes pythons dont main.py
