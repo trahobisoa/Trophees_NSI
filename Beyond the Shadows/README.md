@@ -51,7 +51,7 @@ beyond_the_shadows/
 
 ## Présentation en vidéo 🎥  
 
-Découvrez la présentation du projet en vidéo sur YouTube :  
+Découvrez la présentation du projet en vidéo :  
 
 [[🎬 Voir la vidéo sur YouTube](https://youtu.be/RSGzmwqou5k?si=nHUAXxe9l7C0Dbdz)]
 
