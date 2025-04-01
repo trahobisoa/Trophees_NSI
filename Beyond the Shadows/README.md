@@ -49,7 +49,7 @@ beyond_the_shadows/
 
 ```
 
-## Présentation en vidéo 🎥  
+## 🎥 Présentation en vidéo  
 
 Découvrez la présentation du projet en vidéo :  
 
