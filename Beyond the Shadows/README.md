@@ -55,7 +55,7 @@ Découvrez la présentation du projet en vidéo :
 
 [[🎬 Voir la vidéo sur YouTube](https://youtu.be/RSGzmwqou5k?si=nHUAXxe9l7C0Dbdz)]
 
-## Comment jouer ?
+## :video_game: Comment jouer ?
 
 - :runner: **Mouvements :** Utilisez les flèches :arrow_left:, :arrow_right:, :arrow_up:, :arrow_down: ou `W`,`A`,`S`,`D` pour déplacer le personnage.
 - :anger: **Combat :** `Espace` pour attaquer, `Q` pour changer d'arme
