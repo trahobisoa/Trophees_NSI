@@ -1,4 +1,4 @@
-# Projets des Trophées NSI – IFS Singapour  
+# Projets des Trophées NSI – IFS Singapore
 
 Ce dépôt rassemble les projets réalisés par les élèves de l'IFS Singapour dans le cadre des **Trophées NSI**. Ces projets mettent en avant leur créativité, leurs compétences en programmation et leur capacité à résoudre des problèmes concrets à travers des solutions innovantes.  
 
