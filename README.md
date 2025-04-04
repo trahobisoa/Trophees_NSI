@@ -4,4 +4,4 @@ Ce dépôt rassemble les projets réalisés par les élèves de l'IFS Singapour 
 
 Chaque projet reflète l'engagement et le savoir-faire des élèves en **algorithmique, développement logiciel** et bien d'autres domaines du numérique.  
 
-Bonne découverte et félicitations aux participants ! 🚀🎉  
+Bonne découverte ! 🚀 
